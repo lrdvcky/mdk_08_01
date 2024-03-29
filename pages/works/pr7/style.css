@@ -1,0 +1,66 @@
+.t1 {
+    text-align: center;
+}
+.t2 {
+    text-indent: 5px;
+    text-indent: 2%;
+}
+.t3 {
+    line-height: 20px;
+    line-height: 200%;
+}
+.t4 {
+    vertical-align:15px;
+}
+.t5 {
+    word-spacing: 6px;
+}
+.t6 {
+    letter-spacing: 3px;
+}
+.t7 {
+    white-space: nowrap;
+}
+.t8 {
+    tab-size: 16;
+}
+.t9 {
+    text-transform: capitalize;
+}
+.t10 {
+    direction:rtl;
+}
+#t11 {
+    direction: rtl;
+    unicode-bidi:bidi-override;
+}
+#t12 {
+    text-decoration: line-through;
+}
+#t13 {
+    background-color: cyan;
+}
+#t14 {
+    quotes: '<<';
+}
+#t15 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+#t16 {
+    font-style: oblique;
+}
+#t17 {
+    font-variant: small-caps;
+}
+#t18 {
+    font-weight: bold;
+}
+#t19 {
+    color: chocolate;
+}
+#t20 {
+    font: italic bold 25px;
+}
+#t21 {
+    padding-top: 20px;
+}

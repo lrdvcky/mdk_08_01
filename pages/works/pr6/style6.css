@@ -1,0 +1,11 @@
+body {
+    background-color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content {
+    color: brown;
+    background-color: pink;
+}
+footer {
+    color: darkblue;
+}
